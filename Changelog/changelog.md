@@ -1,0 +1,208 @@
+# TCG's Just for Fun Pack
+## The "Yet Another Modpack!" Alpha Release (client only)
+### Version 0.0.1
+### Mods Added  
+- Advanced Chimneys 3.5.11.0  
+- AdLods 1.0.7.11-build.0441  
+- Advanced Rocketry 1.7.0-208-universal  
+- AE2 Stuff 0.7.0.4  
+- AE2 Wireless Terminal Library 1.0.34  
+- Aether Legacy 1.4.4  
+- AgriCraft 2.12.0-1.12.0-a6  
+- AppleCore 3.2.0  
+- AppleSkin 1.0.9  
+- Applied Energistics 2 rv6-Stable-7  
+- Aroma1997 Core 2.0.0.2.b166  
+- Aroma1997s Dimensional World 2.0.0.2.b96  
+- Asmodeus Core 0.0.12  
+- Astral Sorcery 1.10.22  
+- Baubles 1.5.2  
+- bdlib 1.14.3.12  
+- Better Builders Wands 0.13.2.271+5997513  
+- BiblioCraft 2.4.5  
+- Biome's O' Plenty 7.0.1.2444-universal  
+- Bonsai Trees 1.1.4-b170  
+- Bookshelf 2.3.590  
+- Botania 1.10-363  
+- Brandon's Core 2.4.18.210-universal  
+- BuildCraft 7.99.24.5  
+- Building Gadgets 2.8.1  
+- Chameleon 1.12-4.1.3  
+- Chest Transporter 2.8.8  
+- Chicken Chunks 2.4.2.74  
+- Chickens 6.1.0  
+- Clumps 3.1.2  
+- CodeChickenLib 3.2.3.358-universal  
+- CoFH Core 4.6.3.27  
+- CoFH World 1.3.1.7-universal  
+- Common Capabilities 2.4.5  
+- Compact Machines 3.0.18-b278  
+- conarm 1.2.5.4  
+- Controlling 3.0.8  
+- Cooking for Blockheads 6.5.0  
+- CraftingTweaks 8.1.9  
+- Craft Tweaker 2 4.1.20  
+- Connected Textures Mod 1.0.1.30  
+- Cucumber 1.1.3  
+- Cyclops Core 1.6.1  
+- /dank/null 1.7.89  
+- Decocraft 2.6.3  
+- DiscordCraft 2.0  
+- Draconic Evolution 2.3.25.351  
+- Dynamic Dynamos 1.10  
+- Dynamic Lights 1.12.2  
+- Dynamic Surroundings 3.6.0.2  
+- Dynamic Surroundings HUDs 3.6.0.0  
+- Dynamic Trees 0.9.7  
+- Dynamic Trees BOP 1.4.1e  
+- Electroblob's Wizadry 4.2.9  
+- Elevator Mod 1.3.14  
+- Enchanting Table 1.1.3  
+- EnderCore 0.5.74  
+- Ender IO 5.1.55  
+- EnderStorage 2.4.6.137-univeral  
+- Ender Zoo 1.4.0.49  
+- Environmental Tech 2.0.20.1  
+- ET Lunar 2.0.20.1  
+- Exchangers 2.8  
+- ExtraCells 2.6.5  
+- Extreme Reactors 0.4.5.67  
+- Farming for Blockheads 3.1.28  
+- Farseek 2.4  
+- Flat Colored Blocks 6.8  
+- Fluid Cows 1.1.22  
+- Flux Networks 4.0.14-31  
+- FoamFix 0.10.10  
+- Forge Endertech 4.5.0.0-build.0435  
+- Forgelin 1.8.4  
+- FTB Backups 1.1.0.1  
+- FTB Lib 5.4.7.0  
+- FTB Utilities 5.4.0.124  
+- Galacticraft Plantes 4.0.2.244  
+- Galacticraft RPC 2.1.1  
+- Galacticraft Core 4.0.2.244  
+- Galaxy Space 2.0.11  
+- Growable Cells 3.1.0  
+- Guide API 2.1.8-63  
+- HeadCrumbs 2.0.5.17  
+- Immersive Engineering 0.12-92  
+- Immersive Petroleum 1.1.9  
+- Industrial Foregoing 1.12.13-237  
+- Infinity Lib 1.12.0  
+- Integrated Dynamics 1.1.3  
+- Integrated Tunnels 1.6.10  
+- Integration Foregoing 1.9  
+- Inventory Tweaks 1.64+dev.150  
+- Iron Backpacks 3.0.8-12  
+- Iron Chests 7.0.72.847  
+- Iron Jetpacks 1.12-2-1.1.0  
+- Iron Tanks 2.1.0  
+- JEI 4.15.0.293  
+- JourneyMap 5.7.0  
+- Just Enough Harvestcraft 1.7.0  
+- Just Enough Energistics 1.0.8  
+- JustEnoughIDs 1.0.3-48  
+- Just Enough Reactors 1.1.3.61  
+- Just Enough Resources 0.9.2.60  
+- KleeSlabs 5.4.12  
+- LagGogglesFAT 4.9  
+- LibraryEx 1.0.12  
+- LibVulpes 0.4.2-74-universal  
+- LunatriusCore 1.2.0.42-universal  
+- Malisis Core 6.5.1  
+- Malisis Doors 7.3.0  
+- Mantle 1.3.3.55  
+- McJty Lib 3.5.4  
+- Macaw's Bridges 1.0.3  
+- Mekanism 9.8.3.390  
+- Mekanism Generators 9.8.3.390  
+- Mekanism Tools 9.8.3.390  
+- Mekanism Ores 2.0.13  
+- MicdoodleCore 4.0.2.244  
+- Moar Tinkers 0.6.0  
+- Mob Grinding Utils 0.3.13  
+- More Planets 2.1.10-GC238  
+- More Chickens 3.2.0  
+- Mouse Tweaks 2.10  
+- Mystical Agradditions 1.3.2  
+- Mystical Agriculture 1.7.5  
+- Natura 4.3.2.69  
+- NetherEx 2.0.15  
+- NetherPortalFix 5.3.17  
+- Ore Excavation Integration 2.3.5  
+- Ore Excavation 1.4.143  
+- p455w0rdslib 2.3.161  
+- Pam's Clay Span 1.12a  
+- Pam's Harvestcraft 1.12.2zf  
+- Placebo 1.6.0  
+- PlusTIC 7.1.6.1  
+- Pneumaticcraft Repressurized 0.11.10-385  
+- PTRLib 1.0.4  
+- Quantum Storage 1.12-4.7.0  
+- RailCraft 12.0.0  
+- Random Things 4.2.7.3  
+- RebornCore 3.18.1.514  
+- Redstone Flux 1.12-2.1.0.6-universal  
+- RFTools 7.73  
+- RFTools Control 2.0.2  
+- RFTools Dimensions 1.12-5.71  
+- RFTools Power 1.12-1.2.0  
+- Roguelike Dungeons 1.8.0  
+- Roost 2.0.10  
+- Schematica 1.8.0.169-universal  
+- Simply Jetpacks 2 2.2.14.67  
+- Snad 1.7.09.16a  
+- SteveKunG's Lib 1.1.5  
+- Storage Drawers 5.4.1  
+- Storage Drawers Extras 3.1.0  
+- Streams 1.2-0.4.8  
+- Taiga 1.3.4  
+- Tinkers Construct 2.13.0.179  
+- Tesla Core Lib 1.0.17  
+- The One Probe 1.4.28  
+- Thermal Conversion 2.0  
+- Thermal Cultivation 0.3.3.12-universal  
+- Thermal Dynamics 2.5.5.21-univeral  
+- Thermal Expansion 5.5.4.43-univeral  
+- Thermal Foundation 2.6.3.27  
+- Thermal Innovation 0.3.3.12-universal  
+- Thermal Solars 1.9.5  
+- Thermal Tinkering 2.0.1  
+- Tinkers Complement 0.4.3  
+- Tinkers JEI 1.2  
+- Tinker Tool Leveling 1.1.0  
+- TombManyGraves 4.2.0  
+- Torchmaster 1.8.1.81  
+- UniDict 2.9.6  
+- Valkyrie Lib 2.0.20.1  
+- WanionLib 2.4  
+- Waystones 4.1.0  
+- Wireless Crafting Terminal 3.12.97  
+- Wireless Fluid Terminal 1.0.4  
+- Wireless Interface Terminal 1.0.2  
+- Woot 1.4.11  
+- Worley Caves 1.5.1  
+- XNet 1.12-1.8.2  
+- YABBA 1.1.2.54  
+- ZeroCore 0.1.2.8  
+
+
+### Mods Updated  
+- N/A  
+
+### Mods Removed  
+- N/A  
+
+### Configuration Changes  
+-  Agricraft: Turned off weeds  
+- CoFH: Flattened Bedrock  
+- DiscordCraft: Set the modpack name for the Discord Rich Prescence  
+- GalaxySpace: Disabled unreachable planets  
+- Storage Drawers: Base storage doubled on all drawers, upgrade values tripled, range on controller extended to 36 blocks in each direction, disabled creative upgrades  
+- FTB Backups: Backup timer set for 3 hours, backups_to_keep trimmed to 6, compression_level set to 9, force_on_shutdown set to true  
+- HeadCrumbs: New category and MCers added, set maximum group size to 12, set prefix to 'Evil'  
+- Flux Networks: Enabled the old recipe for flux networks, disabled the number of networks per player  
+- Galacticraft Core: Moved Oxygen Indicator to the left side, set rocket fuel factor to 5, set Harder Difficulty to true, increased Dungeon boss health modifier to 3.0, set Force Overworld Spawn to true (so be sure to have an extra rocket!)  
+
+### Other Notes  
+- N/A  
