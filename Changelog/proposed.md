@@ -69,6 +69,7 @@
 - Extreme Reactors 0.4.5.67  
 - Farming for Blockheads 3.1.28  
 - Farseek 2.4  
+- Fast Leaf Decay v14  
 - Flat Colored Blocks 6.8  
 - Fluid Cows 1.1.22  
 - Flux Networks 4.0.14-31  
@@ -173,6 +174,7 @@
 - Tinker Tool Leveling 1.1.0  
 - TombManyGraves 4.2.0  
 - Torchmaster 1.8.1.81  
+- Traveller's Backpack 1.0.22.22  
 - UniDict 2.9.6  
 - Valkyrie Lib 2.0.20.1  
 - WanionLib 2.4  
@@ -203,6 +205,7 @@
 - HeadCrumbs: New category and MCers added, set maximum group size to 12, set prefix to 'Evil'  
 - Flux Networks: Enabled the old recipe for flux networks, disabled the number of networks per player  
 - Galacticraft Core: Moved Oxygen Indicator to the left side, set rocket fuel factor to 5, set Harder Difficulty to true, increased Dungeon boss health modifier to 3.0, set Force Overworld Spawn to true (so be sure to have an extra rocket!)  
+- 
 
 ### Other Notes  
 - N/A  
