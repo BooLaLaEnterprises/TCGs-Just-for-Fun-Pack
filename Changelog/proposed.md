@@ -187,7 +187,7 @@
 - XNet 1.12-1.8.2  
 - YABBA 1.1.2.54  
 - ZeroCore 0.1.2.8  
-
+- stimmedcow: NoMoreRecipeConflict 0.13  
 
 ### Mods Updated  
 - N/A  
@@ -196,7 +196,7 @@
 - N/A  
 
 ### Configuration Changes  
--  Agricraft: Turned off weeds  
+- Agricraft: Turned off weeds  
 - CoFH: Flattened Bedrock  
 - DiscordCraft: Set the modpack name for the Discord Rich Prescence  
 - GalaxySpace: Disabled unreachable planets  
@@ -205,6 +205,8 @@
 - HeadCrumbs: New category and MCers added, set maximum group size to 12, set prefix to 'Evil'  
 - Flux Networks: Enabled the old recipe for flux networks, disabled the number of networks per player  
 - Galacticraft Core: Moved Oxygen Indicator to the left side, set rocket fuel factor to 5, set Harder Difficulty to true, increased Dungeon boss health modifier to 3.0, set Force Overworld Spawn to true (so be sure to have an extra rocket!)  
+- Aroma1997s Dimensional World: Edited welcomeMessage  
+- Galacticraft Rich Presence: Configured icon_text message  
 
 ### Other Notes  
 - N/A  
