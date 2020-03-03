@@ -205,8 +205,9 @@
 - HeadCrumbs: New category and MCers added, set maximum group size to 12, set prefix to 'Evil'  
 - Flux Networks: Enabled the old recipe for flux networks, disabled the number of networks per player  
 - Galacticraft Core: Moved Oxygen Indicator to the left side, set rocket fuel factor to 5, set Harder Difficulty to true, increased Dungeon boss health modifier to 3.0, set Force Overworld Spawn to true (so be sure to have an extra rocket!)  
-- Aroma1997s Dimensional World: Edited welcomeMessage  
+- Aroma1997s Dimensional World: Edited welcomeMessage, enabled spawnCREATURE in the mining dimension, disabled recipe for BiomeSphere portal due to issues with dimension causing cascading worldgen lag  
 - Galacticraft Rich Presence: Configured icon_text message  
+- RecipeHandler: "Limit Button to Conflict" set to true  
 
 ### Other Notes  
-- N/A  
+- Recipe for Aroma1997s Dimensional World block BiomeSphere portal disabled via CraftTWeaker due to mod conflict issues    
