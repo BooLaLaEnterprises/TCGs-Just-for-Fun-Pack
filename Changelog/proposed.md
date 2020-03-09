@@ -208,6 +208,7 @@
 - Aroma1997s Dimensional World: Edited welcomeMessage, enabled spawnCREATURE in the mining dimension, disabled recipe for BiomeSphere portal due to issues with dimension causing cascading worldgen lag  
 - Galacticraft Rich Presence: Configured icon_text message  
 - RecipeHandler: "Limit Button to Conflict" set to true  
+- Dynamic Surroundings: Disabled bedrock fog  
 
 ### Other Notes  
 - Recipe for Aroma1997s Dimensional World block BiomeSphere portal disabled via CraftTWeaker due to mod conflict issues    
