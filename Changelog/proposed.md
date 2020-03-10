@@ -44,6 +44,7 @@
 - Craft Tweaker 2 4.1.20  
 - Connected Textures Mod 1.0.1.30  
 - Cucumber 1.1.3  
+- Custom Main Menu 2.0.9.1  
 - Cyclops Core 1.6.1  
 - /dank/null 1.7.89  
 - Decocraft 2.6.3  
@@ -144,6 +145,7 @@
 - Random Things 4.2.7.3  
 - RebornCore 3.18.1.514  
 - Redstone Flux 1.12-2.1.0.6-universal  
+- Resource Loader 1.5.3  
 - RFTools 7.73  
 - RFTools Control 2.0.2  
 - RFTools Dimensions 1.12-5.71  
