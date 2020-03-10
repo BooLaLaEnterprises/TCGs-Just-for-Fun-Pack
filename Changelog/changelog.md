@@ -69,7 +69,7 @@
 - ExtraCells 2.6.5  
 - Extreme Reactors 0.4.5.67  
 - Farming for Blockheads 3.1.28  
-- Farseek 2.5s  
+- Farseek 2.5  
 - Fast Leaf Decay v14  
 - Flat Colored Blocks 6.8  
 - Fluid Cows 1.1.22  
