@@ -3,7 +3,6 @@
 ### Version 0.0.1
 ### Mods Added  
 - Advanced Chimneys 3.5.11.0  
-- AdLods 1.0.7.11-build.0441  
 - Advanced Rocketry 1.7.0-208-universal  
 - AE2 Stuff 0.7.0.4  
 - AE2 Wireless Terminal Library 1.0.34  
@@ -81,7 +80,7 @@
 - FTB Lib 5.4.7.0  
 - FTB Utilities 5.4.0.124  
 - Galacticraft Plantes 4.0.2.244  
-- Galacticraft RPC 2.1.1  
+- Galacticraft RPC 2.1.1 (disabled due to bug)  
 - Galacticraft Core 4.0.2.244  
 - Galaxy Space 2.0.11  
 - Growable Cells 3.1.0  
@@ -108,6 +107,7 @@
 - Just Enough Resources 0.9.2.60  
 - KleeSlabs 5.4.12  
 - LagGogglesFAT 4.9  
+- Large Ore Deposits 1.0.7.11-build.0441  
 - LibraryEx 1.0.12  
 - LibVulpes 0.4.2-74-universal  
 - LunatriusCore 1.2.0.42-universal  
@@ -115,7 +115,7 @@
 - Malisis Doors 7.3.0  
 - Mantle 1.3.3.55  
 - McJty Lib 3.5.4  
-- Macaw's Bridges 1.0.3  
+- Macaw's Bridges 1.0.4  
 - Mekanism 9.8.3.390  
 - Mekanism Generators 9.8.3.390  
 - Mekanism Tools 9.8.3.390  
@@ -132,7 +132,7 @@
 - NetherEx 2.0.15  
 - NetherPortalFix 5.3.17  
 - Ore Excavation Integration 2.3.5  
-- Ore Excavation 1.4.143  
+- Ore Excavation 1.4.150  
 - p455w0rdslib 2.3.161  
 - Pam's Clay Span 1.12a  
 - Pam's Harvestcraft 1.12.2zf  
@@ -143,7 +143,7 @@
 - Quantum Storage 1.12-4.7.0  
 - RailCraft 12.0.0  
 - Random Things 4.2.7.3  
-- RebornCore 3.18.1.514  
+- RebornCore 3.19.1.521-universal  
 - Redstone Flux 1.12-2.1.0.6-universal  
 - Resource Loader 1.5.3  
 - RFTools 7.73  
