@@ -44,6 +44,7 @@
 - Craft Tweaker 2 4.1.20  
 - Connected Textures Mod 1.0.1.30  
 - Cucumber 1.1.3  
+- Custom Main Menu 2.0.9.1  
 - Cyclops Core 1.6.1  
 - /dank/null 1.7.89  
 - Decocraft 2.6.3  
@@ -69,6 +70,7 @@
 - Extreme Reactors 0.4.5.67  
 - Farming for Blockheads 3.1.28  
 - Farseek 2.4  
+- Fast Leaf Decay v14  
 - Flat Colored Blocks 6.8  
 - Fluid Cows 1.1.22  
 - Flux Networks 4.0.14-31  
@@ -143,6 +145,7 @@
 - Random Things 4.2.7.3  
 - RebornCore 3.18.1.514  
 - Redstone Flux 1.12-2.1.0.6-universal  
+- Resource Loader 1.5.3  
 - RFTools 7.73  
 - RFTools Control 2.0.2  
 - RFTools Dimensions 1.12-5.71  
@@ -173,6 +176,7 @@
 - Tinker Tool Leveling 1.1.0  
 - TombManyGraves 4.2.0  
 - Torchmaster 1.8.1.81  
+- Traveller's Backpack 1.0.22.22  
 - UniDict 2.9.6  
 - Valkyrie Lib 2.0.20.1  
 - WanionLib 2.4  
@@ -185,7 +189,7 @@
 - XNet 1.12-1.8.2  
 - YABBA 1.1.2.54  
 - ZeroCore 0.1.2.8  
-
+- stimmedcow: NoMoreRecipeConflict 0.13  
 
 ### Mods Updated  
 - N/A  
@@ -194,15 +198,31 @@
 - N/A  
 
 ### Configuration Changes  
--  Agricraft: Turned off weeds  
-- CoFH: Flattened Bedrock  
+- Agricraft: Turned off weeds  
+- CoFH: Flattened Bedrock; enabled ReplaceStandardGeneration so CoFH handles vanilla generation of ores; enabled platinum, iridium,
 - DiscordCraft: Set the modpack name for the Discord Rich Prescence  
 - GalaxySpace: Disabled unreachable planets  
-- Storage Drawers: Base storage doubled on all drawers, upgrade values tripled, range on controller extended to 36 blocks in each direction, disabled creative upgrades  
-- FTB Backups: Backup timer set for 3 hours, backups_to_keep trimmed to 6, compression_level set to 9, force_on_shutdown set to true  
-- HeadCrumbs: New category and MCers added, set maximum group size to 12, set prefix to 'Evil'  
-- Flux Networks: Enabled the old recipe for flux networks, disabled the number of networks per player  
-- Galacticraft Core: Moved Oxygen Indicator to the left side, set rocket fuel factor to 5, set Harder Difficulty to true, increased Dungeon boss health modifier to 3.0, set Force Overworld Spawn to true (so be sure to have an extra rocket!)  
+- Storage Drawers: Base storage doubled on all drawers; upgrade values tripled; range on controller extended to 36 blocks in each direction; disabled creative upgrades  
+- FTB Backups: Backup timer set for 3 hours; backups_to_keep trimmed to 6; compression_level set to 9; force_on_shutdown set to true  
+- HeadCrumbs: New category and MCers added; set maximum group size to 12; set prefix to 'Evil'  
+- Flux Networks: Enabled the old recipe for flux networks; disabled the number of networks per player  
+- Galacticraft Core: Moved Oxygen Indicator to the left side; set rocket fuel factor to 5; set Harder Difficulty to true; increased Dungeon boss health modifier to 3.0; set Force Overworld Spawn to true (so be sure to have an extra rocket!); added TiC clear glass to sealable blocks list; enabled alternate recipes for canisters; lowered oilgen to 0.9; disabling oregen of copper, tin, aluminum;
+- Aroma1997s Dimensional World: Edited welcomeMessage, enabled spawnCREATURE in the mining dimension, disabled recipe for BiomeSphere portal due to issues with dimension causing cascading worldgen lag  
+- Galacticraft Rich Presence: Configured icon_text message  
+- RecipeHandler: "Limit Button to Conflict" set to true  
+- Dynamic Surroundings: Disabled bedrock fog  
+- Unidict: Removed IC2, techreborn and substratum from 'ownerOfEveryThing' list, moved thermalfoundation above Minecraft to try and disable chiseled output on cobalt and other metals, added cobalt and ardite to unified metals  
+- Thermal Cultivation: AllowFakePlayers enabled  
+- AdvancedRocketry: allowPlanetRespawn enabled; dropExtinguishedTorches enabled; lowGravityBoots enabled; disabled OverrideGCAir; disabled Copper, Tin and Aluminum generation to allow CoFH ores to be used; generateVanillaStructures enabled; generateIridium enabled  
+- RailCraft: Disabled copper, silver, lead, tin, nickel  
+- Team Reborn: Disabled version checker  
+- Chisel: autoChiselNeedsPower set to true; chiselBackToVanillaLeaves enabled; concreteVelocityMult lowered to 1.0  
+- CTM: Enavbled connectInsideCTM  
+- Ender Storage: useVanillaEnderChestSounds enabled  
+- In-Game Wiki: enable_missing_notification disabled  
+- ImmersiveEngineering changed preferredOres to thermalfoundation; set showUpdateNews to false; disabled Bauxite (aluminum), copper, lead, silver, nickel  
+- Mekanism: disable copper, tin  ore gen  
+- Waystones: enabled JourneyMap compat  
 
 ### Other Notes  
-- N/A  
+- Recipe for Aroma1997s Dimensional World block BiomeSphere portal disabled via CraftTWeaker due to mod conflict issues  
