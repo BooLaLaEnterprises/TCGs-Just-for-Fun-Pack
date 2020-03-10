@@ -197,18 +197,30 @@
 
 ### Configuration Changes  
 - Agricraft: Turned off weeds  
-- CoFH: Flattened Bedrock  
+- CoFH: Flattened Bedrock; enabled ReplaceStandardGeneration so CoFH handles vanilla generation of ores; enabled platinum, iridium,
 - DiscordCraft: Set the modpack name for the Discord Rich Prescence  
 - GalaxySpace: Disabled unreachable planets  
-- Storage Drawers: Base storage doubled on all drawers, upgrade values tripled, range on controller extended to 36 blocks in each direction, disabled creative upgrades  
-- FTB Backups: Backup timer set for 3 hours, backups_to_keep trimmed to 6, compression_level set to 9, force_on_shutdown set to true  
-- HeadCrumbs: New category and MCers added, set maximum group size to 12, set prefix to 'Evil'  
-- Flux Networks: Enabled the old recipe for flux networks, disabled the number of networks per player  
-- Galacticraft Core: Moved Oxygen Indicator to the left side, set rocket fuel factor to 5, set Harder Difficulty to true, increased Dungeon boss health modifier to 3.0, set Force Overworld Spawn to true (so be sure to have an extra rocket!)  
+- Storage Drawers: Base storage doubled on all drawers; upgrade values tripled; range on controller extended to 36 blocks in each direction; disabled creative upgrades  
+- FTB Backups: Backup timer set for 3 hours; backups_to_keep trimmed to 6; compression_level set to 9; force_on_shutdown set to true  
+- HeadCrumbs: New category and MCers added; set maximum group size to 12; set prefix to 'Evil'  
+- Flux Networks: Enabled the old recipe for flux networks; disabled the number of networks per player  
+- Galacticraft Core: Moved Oxygen Indicator to the left side; set rocket fuel factor to 5; set Harder Difficulty to true; increased Dungeon boss health modifier to 3.0; set Force Overworld Spawn to true (so be sure to have an extra rocket!); added TiC clear glass to sealable blocks list; enabled alternate recipes for canisters; lowered oilgen to 0.9; disabling oregen of copper, tin, aluminum;
 - Aroma1997s Dimensional World: Edited welcomeMessage, enabled spawnCREATURE in the mining dimension, disabled recipe for BiomeSphere portal due to issues with dimension causing cascading worldgen lag  
 - Galacticraft Rich Presence: Configured icon_text message  
 - RecipeHandler: "Limit Button to Conflict" set to true  
 - Dynamic Surroundings: Disabled bedrock fog  
+- Unidict: Removed IC2, techreborn and substratum from 'ownerOfEveryThing' list, moved thermalfoundation above Minecraft to try and disable chiseled output on cobalt and other metals, added cobalt and ardite to unified metals  
+- Thermal Cultivation: AllowFakePlayers enabled  
+- AdvancedRocketry: allowPlanetRespawn enabled; dropExtinguishedTorches enabled; lowGravityBoots enabled; disabled OverrideGCAir; disabled Copper, Tin and Aluminum generation to allow CoFH ores to be used; generateVanillaStructures enabled; generateIridium enabled  
+- RailCraft: Disabled copper, silver, lead, tin, nickel  
+- Team Reborn: Disabled version checker  
+- Chisel: autoChiselNeedsPower set to true; chiselBackToVanillaLeaves enabled; concreteVelocityMult lowered to 1.0  
+- CTM: Enavbled connectInsideCTM  
+- Ender Storage: useVanillaEnderChestSounds enabled  
+- In-Game Wiki: enable_missing_notification disabled  
+- ImmersiveEngineering changed preferredOres to thermalfoundation; set showUpdateNews to false; disabled Bauxite (aluminum), copper, lead, silver, nickel  
+- Mekanism: disable copper, tin  ore gen  
+- Waystones: enabled JourneyMap compat  
 
 ### Other Notes  
-- Recipe for Aroma1997s Dimensional World block BiomeSphere portal disabled via CraftTWeaker due to mod conflict issues    
+- Recipe for Aroma1997s Dimensional World block BiomeSphere portal disabled via CraftTWeaker due to mod conflict issues  
