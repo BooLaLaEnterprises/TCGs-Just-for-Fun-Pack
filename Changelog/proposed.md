@@ -1,4 +1,42 @@
-# TCG's Just for Fun Pack
+# TCG's Just for Fun Pack  
+## The "Ore-dict is broken and we need more mods" alpha Release  
+### Version 0.1.2  
+### Mods Added  
+- Minicoal 1.0  
+- Apotheosis 1.12.5  
+
+### Mods Updated  
+- Advanced Rocketry (1.7.0-208-universal > 1.7.0-209-universal)  
+- Aroma1997's Core (2.0.0.2.b166 > 2.0.0.2.b167)  
+- Asmodeus Core (0.0.12 > 0.0.13)  
+- BuildCraft (7.99.24.5 > 7.99.24.6)  
+- Building Gadgets (2.8.1 > 2.8.2)  
+- Chisel (1.0.1.44 > 1.0.2.45)  
+- CTM (1.0.1.30 > 1.0.2.31)  
+- DankNull (1.7.89 > 1.7.90)  
+- Electroblob's Wizardry (4.2.9 > 4.2.10)  
+- Exchangers (2.8 > 2.9)  
+- Forge Endertech (4.5.0.0-build.0435 > 4.5.1.0-build.0454)  
+- GalaxySpace (2.0.11 > 2.0.12)  
+- Integration Foregoing (1.9 > 1.10)  
+- JourneyMap (5.7.0 > 5.7.1)  
+- JustEnoughIDs (1.0.3-48 > 1.0.3-55)  
+- LagGogglesFAT (4.9 > 4.11-92)  
+- LibraryEx (1.0.12 > 1.1.2)  
+- NetherEx (2.0.15 > 2.1.1)  
+- Pam's Harvestcraft (1.12.2zf > 1.12.2zg)  
+- Phosphor (0.2.6+build50-universal > 0.2.7)
+- Pneumaticcraft Repressurized (0.11.10-385 > 0.11.12-392)  
+- RandomThings (4.2.7.3 > 4.2.7.4)  
+- Reborn Core (3.19.1.521-univeral > 3.19.1.522-univeral)  
+- TConstruct (2.13.0.179 > 2.13.0.183)  
+
+### Mods Removed  
+- N/A  
+
+### Configuration Changes  
+- N/A  
+
 ## The "Yet Another Modpack!" Alpha Release (client only)
 ### Version 0.0.1
 ### Mods Added  
@@ -30,6 +68,7 @@
 - Chest Transporter 2.8.8  
 - Chicken Chunks 2.4.2.74  
 - Chickens 6.1.0  
+- Chisel 1.0.1.44  
 - Clumps 3.1.2  
 - CodeChickenLib 3.2.3.358-universal  
 - CoFH Core 4.6.3.27  
@@ -79,7 +118,7 @@
 - FTB Backups 1.1.0.1  
 - FTB Lib 5.4.7.0  
 - FTB Utilities 5.4.0.124  
-- Galacticraft Plantes 4.0.2.244  
+- Galacticraft Planets 4.0.2.244  
 - Galacticraft RPC 2.1.1 (disabled due to bug)  
 - Galacticraft Core 4.0.2.244  
 - Galaxy Space 2.0.11  
@@ -199,19 +238,19 @@
 
 ### Configuration Changes  
 - Agricraft: Turned off weeds  
-- CoFH: Flattened Bedrock; enabled ReplaceStandardGeneration so CoFH handles vanilla generation of ores; enabled platinum, iridium,
+- CoFH: Flattened Bedrock; enabled ReplaceStandardGeneration so CoFH handles vanilla generation of ores; enabled platinum, iridium  
 - DiscordCraft: Set the modpack name for the Discord Rich Prescence  
 - GalaxySpace: Disabled unreachable planets  
 - Storage Drawers: Base storage doubled on all drawers; upgrade values tripled; range on controller extended to 36 blocks in each direction; disabled creative upgrades  
 - FTB Backups: Backup timer set for 3 hours; backups_to_keep trimmed to 6; compression_level set to 9; force_on_shutdown set to true  
 - HeadCrumbs: New category and MCers added; set maximum group size to 12; set prefix to 'Evil'  
 - Flux Networks: Enabled the old recipe for flux networks; disabled the number of networks per player  
-- Galacticraft Core: Moved Oxygen Indicator to the left side; set rocket fuel factor to 5; set Harder Difficulty to true; increased Dungeon boss health modifier to 3.0; set Force Overworld Spawn to true (so be sure to have an extra rocket!); added TiC clear glass to sealable blocks list; enabled alternate recipes for canisters; lowered oilgen to 0.9; disabling oregen of copper, tin, aluminum;
+- Galacticraft Core: Moved Oxygen Indicator to the left side; set rocket fuel factor to 5; set Harder Difficulty to true; increased Dungeon boss health modifier to 3.0; set Force Overworld Spawn to true (so be sure to have an extra rocket!); added TiC clear glass to sealable blocks list; enabled alternate recipes for canisters; lowered oilgen to 0.9; disabling oregen of copper, tin, aluminum  
 - Aroma1997s Dimensional World: Edited welcomeMessage, enabled spawnCREATURE in the mining dimension, disabled recipe for BiomeSphere portal due to issues with dimension causing cascading worldgen lag  
 - Galacticraft Rich Presence: Configured icon_text message  
 - RecipeHandler: "Limit Button to Conflict" set to true  
 - Dynamic Surroundings: Disabled bedrock fog  
-- Unidict: Removed IC2, techreborn and substratum from 'ownerOfEveryThing' list, moved thermalfoundation above Minecraft to try and disable chiseled output on cobalt and other metals, added cobalt and ardite to unified metals  
+- Unidict: Removed IC2, techreborn and substratum from 'ownerOfEveryThing' list; moved thermalfoundation above Minecraft to try and disable chiseled output on cobalt and other metals, added cobalt and ardite to unified metals  
 - Thermal Cultivation: AllowFakePlayers enabled  
 - AdvancedRocketry: allowPlanetRespawn enabled; dropExtinguishedTorches enabled; lowGravityBoots enabled; disabled OverrideGCAir; disabled Copper, Tin and Aluminum generation to allow CoFH ores to be used; generateVanillaStructures enabled; generateIridium enabled  
 - RailCraft: Disabled copper, silver, lead, tin, nickel  
