@@ -25,11 +25,13 @@
 - LibraryEx (1.0.12 > 1.1.2)  
 - NetherEx (2.0.15 > 2.1.1)  
 - Pam's Harvestcraft (1.12.2zf > 1.12.2zg)  
-- Phosphor (0.2.6+build50-universal > 0.2.7)
+- Phosphor (0.2.6+build50-universal > 0.2.7)  
+- PlusTiC (7.1.6.1 > 8.0.0.0)  
 - Pneumaticcraft Repressurized (0.11.10-385 > 0.11.12-392)  
 - RandomThings (4.2.7.3 > 4.2.7.4)  
 - Reborn Core (3.19.1.521-univeral > 3.19.1.522-univeral)  
 - TConstruct (2.13.0.179 > 2.13.0.183)  
+- Traveller's Backpack (1.0.22.22 > 1.0.23.23)  
 
 ### Mods Removed  
 - N/A  
