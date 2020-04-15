@@ -6,7 +6,7 @@
 - Apotheosis 1.12.5  
 
 ### Mods Updated  
-- N/A  
+- PlusTiC (7.1.6.1 > 8.0.1.0)  
 
 ### Mods Removed  
 - N/A  
