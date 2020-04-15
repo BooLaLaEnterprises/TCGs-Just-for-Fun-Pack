@@ -36,7 +36,6 @@
 - NetherEx (2.0.15 > 2.1.2)  
 - Pam's Harvestcraft (1.12.2zf > 1.12.2zg)  
 - Phosphor (0.2.6+build50-universal > 0.2.7)  
-- PlusTiC (7.1.6.1 > 8.0.0.1)  
 - Pneumaticcraft Repressurized (0.11.10-385 > 0.11.13-394)  
 - RandomThings (4.2.7.3 > 4.2.7.4)  
 - Reborn Core (3.19.1.521-univeral > 3.19.1.522-univeral)  
@@ -62,7 +61,7 @@
 - Apotheosis 1.12.5  
 
 ### Mods Updated  
-- N/A  
+- PlusTiC (7.1.6.1 > 8.0.1.0)  
 
 ### Mods Removed  
 - N/A  
