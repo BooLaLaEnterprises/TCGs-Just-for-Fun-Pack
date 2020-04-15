@@ -1,6 +1,21 @@
-# TCG's Just for Fun Pack
-## The "Yet Another Modpack!" Alpha Release (client only)
-### Version 0.0.1
+# TCG's Just for Fun Pack  
+## The "Not Quite There Yet" Alpha Release (client only)  
+### Version 0.0.2  
+### Mods Added  
+- Minicoal 1.0  
+- Apotheosis 1.12.5  
+
+### Mods Updated  
+- N/A  
+
+### Mods Removed  
+- N/A  
+
+### Configuration Changes  
+- Updated forge to 2847  
+
+## The "Yet Another Modpack!" Alpha Release (client only)  
+### Version 0.0.1  
 ### Mods Added  
 - Advanced Chimneys 3.5.11.0  
 - Advanced Rocketry 1.7.0-208-universal  
@@ -199,19 +214,19 @@
 
 ### Configuration Changes  
 - Agricraft: Turned off weeds  
-- CoFH: Flattened Bedrock; enabled ReplaceStandardGeneration so CoFH handles vanilla generation of ores; enabled platinum, iridium,
+- CoFH: Flattened Bedrock; enabled ReplaceStandardGeneration so CoFH handles vanilla generation of ores; enabled platinum, iridium  
 - DiscordCraft: Set the modpack name for the Discord Rich Prescence  
 - GalaxySpace: Disabled unreachable planets  
 - Storage Drawers: Base storage doubled on all drawers; upgrade values tripled; range on controller extended to 36 blocks in each direction; disabled creative upgrades  
 - FTB Backups: Backup timer set for 3 hours; backups_to_keep trimmed to 6; compression_level set to 9; force_on_shutdown set to true  
 - HeadCrumbs: New category and MCers added; set maximum group size to 12; set prefix to 'Evil'  
 - Flux Networks: Enabled the old recipe for flux networks; disabled the number of networks per player  
-- Galacticraft Core: Moved Oxygen Indicator to the left side; set rocket fuel factor to 5; set Harder Difficulty to true; increased Dungeon boss health modifier to 3.0; set Force Overworld Spawn to true (so be sure to have an extra rocket!); added TiC clear glass to sealable blocks list; enabled alternate recipes for canisters; lowered oilgen to 0.9; disabling oregen of copper, tin, aluminum;
+- Galacticraft Core: Moved Oxygen Indicator to the left side; set rocket fuel factor to 5; set Harder Difficulty to true; increased Dungeon boss health modifier to 3.0; set Force Overworld Spawn to true (so be sure to have an extra rocket!); added TiC clear glass to sealable blocks list; enabled alternate recipes for canisters; lowered oilgen to 0.9; disabling oregen of copper, tin, aluminum  
 - Aroma1997s Dimensional World: Edited welcomeMessage, enabled spawnCREATURE in the mining dimension, disabled recipe for BiomeSphere portal due to issues with dimension causing cascading worldgen lag  
 - Galacticraft Rich Presence: Configured icon_text message  
 - RecipeHandler: "Limit Button to Conflict" set to true  
 - Dynamic Surroundings: Disabled bedrock fog  
-- Unidict: Removed IC2, techreborn and substratum from 'ownerOfEveryThing' list, moved thermalfoundation above Minecraft to try and disable chiseled output on cobalt and other metals, added cobalt and ardite to unified metals  
+- Unidict: Removed IC2, techreborn and substratum from 'ownerOfEveryThing' list; moved thermalfoundation above Minecraft to try and disable chiseled output on cobalt and other metals, added cobalt and ardite to unified metals  
 - Thermal Cultivation: AllowFakePlayers enabled  
 - AdvancedRocketry: allowPlanetRespawn enabled; dropExtinguishedTorches enabled; lowGravityBoots enabled; disabled OverrideGCAir; disabled Copper, Tin and Aluminum generation to allow CoFH ores to be used; generateVanillaStructures enabled; generateIridium enabled  
 - RailCraft: Disabled copper, silver, lead, tin, nickel  
