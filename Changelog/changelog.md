@@ -1,6 +1,21 @@
-# TCG's Just for Fun Pack
-## The "Yet Another Modpack!" Alpha Release (client only)
-### Version 0.0.1
+# TCG's Just for Fun Pack  
+## The "Not Quite There Yet" Alpha Release (client only)  
+### Version 0.0.2  
+### Mods Added  
+- Minicoal 1.0  
+- Apotheosis 1.12.5  
+
+### Mods Updated  
+- N/A  
+
+### Mods Removed  
+- N/A  
+
+### Configuration Changes  
+- Updated forge to 2847  
+
+## The "Yet Another Modpack!" Alpha Release (client only)  
+### Version 0.0.1  
 ### Mods Added  
 - Advanced Chimneys 3.5.11.0  
 - Advanced Rocketry 1.7.0-208-universal  

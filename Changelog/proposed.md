@@ -2,10 +2,10 @@
 ## The "Ore-dict is broken and we need more mods" alpha Release  
 ### Version 0.1.2  
 ### Mods Added  
-- Minicoal 1.0  
-- Apotheosis 1.12.5  
+- N/A
 
 ### Mods Updated  
+- Advanced Chimneys (3.5.11.0-build.0445 > 3.5.12.0-build.0459)  
 - Advanced Rocketry (1.7.0-208-universal > 1.7.0-209-universal)  
 - Aroma1997's Core (2.0.0.2.b166 > 2.0.0.2.b167)  
 - Asmodeus Core (0.0.12 > 0.0.13)  
@@ -23,7 +23,7 @@
 - Electroblob's Wizardry (4.2.9 > 4.2.10)  
 - Ender Core (0.5.74 > 0.5.75)  
 - Exchangers (2.8 > 2.9)  
-- Forge Endertech (4.5.0.0-build.0435 > 4.5.1.0-build.0454)  
+- Forge Endertech (4.5.0.0-build.0435 > 4.5.2.0-build.0459)  
 - GalaxySpace (2.0.11 > 2.0.12)
 - Integrated Dynamics (1.1.2 > 1.1.4)   
 - Integrated Tunnels (1.6.10 > 1.6.11)  
@@ -54,6 +54,21 @@
 
 ### Configuration Changes  
 - N/A  
+
+## The "Not Quite There Yet" Alpha Release (client only)  
+### Version 0.0.2  
+### Mods Added  
+- Minicoal 1.0  
+- Apotheosis 1.12.5  
+
+### Mods Updated  
+- N/A  
+
+### Mods Removed  
+- N/A  
+
+### Configuration Changes  
+- Updated forge to 2847  
 
 ## The "Yet Another Modpack!" Alpha Release (client only)
 ### Version 0.0.1
