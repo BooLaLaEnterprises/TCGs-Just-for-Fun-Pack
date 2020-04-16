@@ -1,5 +1,5 @@
 # TCG's Just for Fun Pack  
-## The "Ore-dict is broken and we need more mods" alpha Release  
+## The "Mixinbootstrap Issue Is Fixed For Now" beta Release  
 ### Version 0.1.2  
 ### Mods Added  
 - Gunpowder Lib 1.0 (apparently it was missing)  
