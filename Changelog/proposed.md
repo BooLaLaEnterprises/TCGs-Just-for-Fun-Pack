@@ -12,7 +12,7 @@
 - Asmodeus Core (0.0.12 > 0.0.13)  
 - Astral Sorcery (1.10.22 > 1.10.23)  
 - BuildCraft (7.99.24.5 > 7.99.24.6)  
-- Building Gadgets (2.8.1 > 2.8.2)  
+- Building Gadgets (2.8.1 > 2.8.3)  
 - Chisel (1.0.1.44 > 1.0.2.45)  
 - CoFH Core (4.6.3.27-universal > 4.6.6.1-universal)  
 - CoFH World (1.3.1.7-universal > 1.4.0.1-universal)  
