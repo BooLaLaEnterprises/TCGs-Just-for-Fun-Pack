@@ -2,10 +2,11 @@
 ## The "Ore-dict is broken and we need more mods" alpha Release  
 ### Version 0.1.2  
 ### Mods Added  
-- N/A
+- Gunpowder Lib 1.0 (apparently it was missing)  
+- TwitchSpawn 0.4.17  
 
 ### Mods Updated  
-- Advanced Chimneys (3.5.11.0-build.0445 > 3.5.12.0-build.0459)  
+- Advanced Chimneys (3.5.11.0-build.0445 > 3.5.12.0-build.0460)  
 - Advanced Rocketry (1.7.0-208-universal > 1.7.0-209-universal)  
 - Aroma1997's Core (2.0.0.2.b166 > 2.0.0.2.b167)  
 - Asmodeus Core (0.0.12 > 0.0.13)  
@@ -16,16 +17,18 @@
 - CoFH Core (4.6.3.27-universal > 4.6.6.1-universal)  
 - CoFH World (1.3.1.7-universal > 1.4.0.1-universal)  
 - Common Capabilities (2.4.5 > 2.4.6)  
+- Controlling (3.0.8 > 3.0.9)  
+- CraftTWeaker 2 (4.1.20 > 4.1.20.564)  
 - CTM (1.0.1.30 > 1.0.2.31)  
-- Cyclops Core (1.6.1 > 1.6.2)  
-- DankNull (1.7.89 > 1.7.91)  
+- Cyclops Core (1.6.1 > 1.6.3)  
+- DankNull (1.7.89 > 1.7.94)  
 - Dynamic Surroundings (3.6.0.2 > 3.6.1.0)  
-- Electroblob's Wizardry (4.2.9 > 4.2.10)  
+- Electroblob's Wizardry (4.2.9 > 4.2.11)  
 - Ender Core (0.5.74 > 0.5.75)  
 - Exchangers (2.8 > 2.9)  
 - Forge Endertech (4.5.0.0-build.0435 > 4.5.2.0-build.0459)  
-- GalaxySpace (2.0.11 > 2.0.12)
-- Integrated Dynamics (1.1.2 > 1.1.4)   
+- GalaxySpace (2.0.11 > 2.0.12)  
+- Integrated Dynamics (1.1.2 > 1.1.5)   
 - Integrated Tunnels (1.6.10 > 1.6.11)  
 - Integration Foregoing (1.9 > 1.10)  
 - Inventory Tweaks (1.64+dev.150 > 1.64+dev.151)  
@@ -33,18 +36,18 @@
 - JustEnoughIDs (1.0.3-48 > 1.0.3-55)  
 - LagGogglesFAT (4.9 > 4.11-92)  
 - LibraryEx (1.0.12 > 1.1.2)  
-- NetherEx (2.0.15 > 2.1.2)  
+- NetherEx (2.0.15 > 2.1.3)  
 - Pam's Harvestcraft (1.12.2zf > 1.12.2zg)  
-- Phosphor (0.2.6+build50-universal > 0.2.7)  
+- Phosphor (0.2.6+build50-universal > 0.2.7-universal)  
 - Pneumaticcraft Repressurized (0.11.10-385 > 0.11.13-394)  
 - RandomThings (4.2.7.3 > 4.2.7.4)  
-- Reborn Core (3.19.1.521-univeral > 3.19.1.522-univeral)  
-- RedStone Flux (2.1.0.6-universal > 2.1.1.1)  
+- Reborn Core (3.19.1.521-univeral > 3.19.1.524-univeral)  
+- RedStone Flux (2.1.0.6-universal > 2.1.1.1-universal)  
 - TConstruct (2.13.0.179 > 2.13.0.183)  
-- Thermal Cultivation (0.3.3.12 > 0.3.6.1)  
-- Thermal Dynamics (2.5.5.21 > 2.5.6.1)  
-- Thermal Expandions (5.5.4.43-universal > 5.5.6.1-universal)  
-- Thermal Foundation (2.6.3.27-universal > 2.6.6.1-universal)  
+- Thermal Cultivation (0.3.3.12 > 0.3.6.1-universal)  
+- Thermal Dynamics (2.5.5.21 > 2.5.6.1-universal)  
+- Thermal Expansion (5.5.4.43-universal > 5.5.7.1-universal)  
+- Thermal Foundation (2.6.3.27-universal > 2.6.7.1-universal)  
 - Thermal Innovation (0.3.3.12-universal > 0.3.6.1-universal)  
 - Traveller's Backpack (1.0.22.22 > 1.0.23.23)  
 
@@ -52,7 +55,10 @@
 - N/A  
 
 ### Configuration Changes  
-- N/A  
+- GalaxySpace: Disabled version checker  
+- Apotheosis: Limited reed height to only 75 blocks of growth  
+- TwitchSpawn: Turned off logo display  
+- Rouge Like Dungeons: Encased them to help protect against weird land generation; increased looting from 0.085 to 0.095  
 
 ## The "Not Quite There Yet" Alpha Release (client only)  
 ### Version 0.0.2  
