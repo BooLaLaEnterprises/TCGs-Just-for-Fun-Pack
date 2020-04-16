@@ -2,7 +2,8 @@
 ## The "Ore-dict is broken and we need more mods" alpha Release  
 ### Version 0.1.2  
 ### Mods Added  
-- N/A
+- Gunpowder Lib 1.0 (apparently it was missing)  
+- TwitchSpawn 0.4.17  
 
 ### Mods Updated  
 - Advanced Chimneys (3.5.11.0-build.0445 > 3.5.12.0-build.0459)  
@@ -52,7 +53,10 @@
 - N/A  
 
 ### Configuration Changes  
-- N/A  
+- GalaxySpace: Disabled version checker  
+- Apotheosis: Limited reed height to only 75 blocks of growth  
+- TwitchSpawn: Turned off logo display  
+- Rouge Like Dungeons: Encased them to help protect against weird land generation; increased looting from 0.085 to 0.095  
 
 ## The "Not Quite There Yet" Alpha Release (client only)  
 ### Version 0.0.2  
