@@ -48,6 +48,7 @@
 ### Configuration Changes  
 - Removed old PlusTiC configuration file, regenerated with new mod.   
 - Re-enable Galacticraft RPC  
+- Updated Forge to 14.23.5.2854  
 
 ## The "Mixinbootstrap Issue Is Fixed For Now" beta Release  
 ### Version 0.1.2  
