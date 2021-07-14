@@ -1,4 +1,15 @@
 # TCG's Just for Fun Pack  
+## The "Uranium and Yelloroium are Not Interchangable Update"  
+### Version 0.2.1  
+### Mods Added  
+- N/A  
+
+### Mods Update  
+- N/A  
+
+### Configuration Changes  
+- Set registerYelloriumAsUranium and registerYelloriteSmeltToUranium false as it was causing the Yellorium chickens to lay uranium ingots.  
+
 ## The "It's Been Too Long Since My Last Update" Update  
 ### Version 0.2.0  
 ### Mods Added  
