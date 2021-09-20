@@ -1,14 +1,74 @@
 # TCG's Just for Fun Pack  
-## The "Uranium and Yelloroium are Not Interchangable Update"  
+## The "Uranium and Yelloroium are Not Interchangable and Vanilla Tools Nerf Update"  
 ### Version 0.2.1  
 ### Mods Added  
-- N/A  
+- Electroblob's Wizadry (re-added)  
 
-### Mods Update  
-- N/A  
+### Mods Removed
+- N/A
+
+### Mods Updated  
+- Advanced Chimneys (1.12.2-3.5.14.0-build.0505 > 1.12.2-3.5.15.0-build.0560)  
+- Advanced Rocketry (1.12.2-1.7.0-232-universal > 1.12.2-2.0.0-255-universal)  
+- AgriCraft (2.12.0-1.12.0-a6 > 2.12.0-1.12.2-b2)  
+- AsmodeusCore (1.12.2-0.0.17 > 1.12.2-0.0.26)  
+- Astral Sorcery (1.12.2-1.10.25 > 1.12.2-1.10.27)  
+- Botania (r1.10-363 > r1.10-364.4)  
+- BrandonsCore (1.12.2-2.4.18.210-universal > 1.12.2-2.4.20.162-universal)  
+- BuildCraft (all 7.99.24.6 > 7.99.24.8)  
+- CommonCapabilities (1.12.2-2.4.7 > 1.12.2-2.4.8)  
+- Construct's Armory (1.12.2-1.2.5.9 > 1.12.2-1.2.5.10)  
+- Controlling (3.0.9 > 3.0.10)  
+- Craft Tweaker 2 (1.12-4.1.20.582 > 1.12-4.1.20.660)  
+- Cyclops Core (1.12.2-1.6.6 > 1.12.2-1.6.7)  
+- Decocraft (2.6.3_1.12.2 > 2.6.3.7_1.12.2)  
+- Draconic Evolution (1.12.2-2.3.25.351-universal > 1.12.2-2.3.28.354)  
+- Dynamic Surroundings (1.12.2-3.6.1.0 > 1.12.2-3.6.2.1)  
+- Dynamic Trees (1.12.2-0.9.8 > 1.12.2-0.9.25)  
+- Dynamic Trees - Biome's O' Plenty (1.12.2-1.4.1e > 1.12.2-1.5.1)  
+- Ender IO (1.12.2-5.2.59 > 1.12.2-5.3.70)  
+- Exchangers (1.12.2-2.9 > 1.12.2-2.10.1)  
+- ExtremeReactors (1.12.2-0.4.5.67 > 1.12.2-0.4.5.68)  
+- Farseek (1.12-2.5 > 1.12-2.5.1)  
+- Flux Networks (1.12.2-4.0.15-32 > 1.12.2-4.1.1.34)  
+- FoamFix (0.10.10-1.12.2 > 0.10.14-1.12.2)  
+- Forge Endertech (1.12.2-4.5.4.0-build.0534 > 1.12.2-4.5.5.0-build.0561)  
+- FTB Utilities (5.4.1.130 > 5.4.1.131)  
+- GalaxySpace (1.12.2-2.0.14 > 1.12.2-2.0.16)  
+- Gunpowder Lib (1.12.2-1.0 > 1.12.2-1.1)  
+- Immersive Petroleum (1.12.2-1.1.9 > 1.12.2-1.1.10)  
+- InfinityLib (1.12.0 > 1.12.1)  
+- Integrated Dynamics (1.12.2-1.1.7 > 1.12.2-1.1.11)  
+- Integrated Tunnels (1.12.2-1.6.12 > 1.12.2-1.6.14)  
+- Integration Foregoing (1.12.2-1.10 > 1.12.2-1.11)  
+- JustEnoughItems (1.12.2-4.15.0.297 > 1.12.2-4.15.0.302)  
+- LibraryEx (1.12.2-1.1.3 > 1.12.2-1.2.2)  
+- LibVulpes (1.12.2-0.4.2-75-universal > 1.12.2-0.4.2-84-universal)  
+- Macaw's Bridges (1.0.4-mc1.12.2 > 1.0.6b-mc1.12.2)  
+- More Planets (1.12.2-2.1.12-GC251 > 1.12.2-2.2.1-GC280)  
+- Mouse Tweaks (2.10-mc1.12.2 > 2.10.1-mc1.12.2)  
+- NetherEx (1.12.2-2.1.8 > 1.12.2-2.2.5)  
+- PTRLib (1.0.4 > 1.0.5)  
+- RebornCore (1.12.2-3.19.4.529-universal > 1.12.2-3.19.5-universal)  
+- Simply Jetpacks 2 (1.12.2-2.2.15.69 > 1.12.2-2.2.20.0)  
+- SteveKunG's Lib (1.12.2-1.1.6 > 1.12.2-1.1.10)  
+- Streams (1.12-0.4.8 > 1.12-0.4.9)  
+- Tesla Core Lib (1.12.2-1.0.17 > 1.12.2-1.0.18)  
+- The Aether (1.12.2-v1.4.4 > 1.12.2-v1.5.3.2)  
+- TickCentral (2.6 > 3.2)  
+- TorchMaster (1.12.2-1.8.1.82 > 1.12.2-1.8.4.84)  
+- Traveler's Backpack (1.12.2-1.0.33 > 1.12.2-1.0.35)  
+- TwitchSpawn (1.12.2-0.4.17 > 1.12.2-0.8.1)  
+- UniDict (1.12.2-2.9.6 > 1.12.2-3.0.8)  
+- WanionLib (1.12.2-2.4 > 1.12.2-2.5)  
+- Worley's Caves (1.12.2-1.5.1 > 1.12.2-1.5.2)  
+- xXx_MoreToolMats_xXx (8.0.1.0 > 8.0.3)  
+- ZeroCore 2 (1.12.2-0.1.2.8 > 1.12.2-0.1.2.9)  
 
 ### Configuration Changes  
 - Set registerYelloriumAsUranium and registerYelloriteSmeltToUranium false as it was causing the Yellorium chickens to lay uranium ingots.  
+- Updated various mods to latest version.  
+- Nerfed vanilla tools with CraftTWeaker script settings from Enigmatica 2 Expert used by permission from NillerMedDild.  
 
 ## The "It's Been Too Long Since My Last Update" Update  
 ### Version 0.2.0  
