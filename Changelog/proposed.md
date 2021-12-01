@@ -1,11 +1,11 @@
 # TCG's Just for Fun Pack  
-## The "Uranium and Yelloroium are Not Interchangable and Vanilla Tools Nerf Update"  
-### Version 0.2.1  
+## The "Lots of Changes" Update    
+### Version 0.3  
 ### Mods Added  
 - Electroblob's Wizadry (re-added)  
 
 ### Mods Removed
-- N/A
+- Phosphor (mod author only supports Fabric)  
 
 ### Mods Updated  
 - Advanced Chimneys (1.12.2-3.5.14.0-build.0505 > 1.12.2-3.5.15.0-build.0560)  
@@ -66,9 +66,12 @@
 - ZeroCore 2 (1.12.2-0.1.2.8 > 1.12.2-0.1.2.9)  
 
 ### Configuration Changes  
-- Set registerYelloriumAsUranium and registerYelloriteSmeltToUranium false as it was causing the Yellorium chickens to lay uranium ingots.  
+- Extreme Reactors: Set registerYelloriumAsUranium and registerYelloriteSmeltToUranium false as it was causing the Yellorium chickens to lay uranium ingots.  
 - Updated various mods to latest version.  
 - Nerfed vanilla tools with CraftTWeaker script settings from Enigmatica 2 Expert used by permission from NillerMedDild.  
+- Integrated Dynamics: Disabled version checker  
+- Intetrated Tunnels: Disabled version checker  
+- Cyclops Core: Disabled version checker  
 
 ## The "It's Been Too Long Since My Last Update" Update  
 ### Version 0.2.0  
