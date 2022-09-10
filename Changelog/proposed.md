@@ -1,4 +1,34 @@
-# TCG's Just for Fun Pack  
+# TCG's Just for Fun: Vanilla Edition  
+## The "Making Things More Fun" Update  
+### Version 0.5  
+### Mods Added  
+- N/A  
+
+### Mods Removed  
+- Environmental Tech  
+- Environmental Lunar Tech  
+- ValkyrieLib
+
+### Mods Updated  
+- Advanced Rocketry (2.0.0-255-universal > 2.0.0-256-universal)  
+- AsmodeusCore (0.0.26 > 0.0.28)  
+- CraftTWeaker (4.1.20.660 > 4.1.20.670)  
+- Dynamic Surroundings (3.6.2.1 > 3.6.3)  
+- ForgeEndertech (4.5.5.0-build.0561 > 4.5.5.0-build.0619)  
+- GalaxySpace (2.0.16 > 2.0.17)  
+- LibVulpes (0.4.2-84-universal > 0.4.2-85-universal)  
+- TorchMaster (1.8.4.84 > 1.8.5.0)  
+- Unidict (3.0.8 > 3.0.10)  
+- WanionLib (2.5 > 2.7)
+- Forge Mod Loader (14.23.5.2847 > 14.23.5.2855)
+
+### Configuration Changes  
+- Pack renamed "Just for Fun: Vanilla Edition"
+- Ae2 Wireless Crafting Terminals Infinity Booster card set to "old" mechanics
+- AE2 Version Checker disabled  
+- Fixed issue in script nerfing vanilla tools  
+
+
 ## The "Lots of Changes" Update    
 ### Version 0.3  
 ### Mods Added  

@@ -2,6 +2,7 @@
 # All credit for this script goes to the Enigmatica team
 # This script is borrowed from Enigmatica 2: Expert with permission.
 # Vanilla tool nerfs
+import crafttweaker.item.IItemStack as IItemStack;
 
 	val toolsToNerf = [
 
