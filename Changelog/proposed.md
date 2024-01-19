@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # TCG's Just for Fun: Vanilla Edition  
 ## The "Making Things More Fun" Update  
 ### Version 0.5  
@@ -28,6 +29,54 @@
 - AE2 Version Checker disabled  
 - Fixed issue in script nerfing vanilla tools  
 
+=======
+# TCG's Just for Fun Pack  
+## The "It's Been A While" Update  
+### Version 0.4  
+### Mods Added  
+- N/A  
+
+### Mods Updated  
+- Advanced Chimneys (1.12.2-3.5.15.0-build.0560 > 1.12.2-3.5.16.0-build.0654)  
+- Advanced Rocketry (1.12.2-2.0.0-255-universal > 1.12.2-2.0.0-17)  
+- AsmodeusCore (1.12.2-0.0.26 > 1.12.2-1.0.0)  
+- BdLib (1.14.3.12-mc1.12.2 > 1.14.4.1-mc1.12.2)  
+- BiblioCraft ([v2.4.5][MC1.12.2] > [v2.4.6][MC1.12.2])  
+- Biomes O' Plenty (1.12.2-7.0.1.2444-universal > 1.12.2-7.0.1.2445-universal)  
+- Controlling (3.0.10 > 3.0.12.2)  
+- CraftTweaker (1.12-4.1.20.660 > 1.12-4.1.20.698)  
+- Dynamic Surroundings (1.12.2-3.6.2.1 > 1.12.2-3.6.3)  
+- Dynamic Trees (1.12.2-0.9.25 > 1.12.2-0.9.29)  
+- Dynamic Trees - Biomes O' Plenty (1.12.2-1.5.1 > 1.12.2-1.5.2)  
+- Electroblob's Wizardry (4.3.4-MC1.12.2 > 4.3.12)  
+- EnderIO (1.12.2-5.3.70 > 1.12.2-5.3.72)  
+- EnderCore (1.12.2-0.5.76 > 1.12.2-0.5.78)  
+- Exchangers (1.12.2-2.10. > 1.12.2-2.10.3)  
+- FoamFix (0.10.14-1.12.2 > 0.10.15-1.12.2)  
+- ForgeEndertech (1.12.2-4.5.5.0-build.0561 > 1.12.2-4.5.6.1-build.0648)  
+- Galaxy Space [Addon for GalactiCraft] (1.12.2-2.0.16 > 1.12.2-2.1.1)  
+- Just Enough Items (JEI) (1.12.2-4.16.1.302 > 1.12.2-4.16.1.1003)  
+- JustEnoughIDs (1.0.3-55 > 1.0.4-SNAPSHOT-thin)  
+- LagGoggles (1.12.2-5.8-132 > 1.12.2-5.9-140)  
+- LibVulpes (1.12.2-0.4.2-84-universal > 1.12.2-0.4.2-25-universal)  
+- More Planets - Galacticraft Add-on (1.12.2-2.2.1-GC280 > 1.12.2-2.3.2-GC4.0.5)  
+- Placebo (1.12.2-1.6.0 > 1.12.2-1.6.1)  
+- Railcraft (12.0.0 > 12.1.0-beta-8)  
+- SteveKunG's Lib (Lib-1.12.2-1.1.10 > mc1.12.2-v1.3.0)  
+- Storage Drawers (1.12.2-5.4.2 > 1.12.2-5.5.0)  
+- The Aether (1.12.2-v1.5.3.2 > 1.12.2-v1.5.4.0)  
+- Torchmaster (1.12.2-1.8.4.84 > 1.12.2-1.8.5.0)  
+- UniDict (1.12.2-3.0.8 > 1.12.2-3.0.10)  
+- WanionLib (1.12.2-2.5 > 1.12.2-2.91)  
+- xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk) (8.0.3 > 8.0.6)  
+
+### Mods Removed  
+- DiscordCraft  
+- Dynamic Lights
+
+### Configuration Changes  
+- Removed unneeded config files for Dynamic Lights and DiscordCraft  
+>>>>>>> Stashed changes
 
 ## The "Lots of Changes" Update    
 ### Version 0.3  
