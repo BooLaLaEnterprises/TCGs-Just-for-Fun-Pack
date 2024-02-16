@@ -16,11 +16,13 @@ import crafttweaker.item.IItemStack as IItemStack;
 	<minecraft:diamond_axe>,
 	<minecraft:diamond_pickaxe>,
 	<minecraft:diamond_hoe>,
+	<minefraft:diamond_sword>,
 
 	<minecraft:iron_shovel>,
 	<minecraft:iron_axe>,
 	<minecraft:iron_pickaxe>,
 	<minecraft:iron_hoe>,
+	<minecraft:iron_sword>,
 
 	<minecraft:wooden_pickaxe>,
 	<minecraft:wooden_sword>,
@@ -31,7 +33,8 @@ import crafttweaker.item.IItemStack as IItemStack;
 	<minecraft:stone_pickaxe>,
 	<minecraft:stone_hoe>,
 	<minecraft:stone_axe>,
-	<minecraft:stone_shovel>
+	<minecraft:stone_shovel>,
+	<minecraft:stone_sword>,
 
 		] as IItemStack[];
 
@@ -39,6 +42,6 @@ import crafttweaker.item.IItemStack as IItemStack;
 		tool.maxDamage = 1;
 	}
 
-	<minecraft:stone_sword>.maxDamage = 2;
-	<minecraft:iron_sword>.maxDamage = 10;
-	<minecraft:diamond_sword>.maxDamage = 20;
+#	<minecraft:stone_sword>.maxDamage = 2;
+#	<minecraft:iron_sword>.maxDamage = 10;
+#	<minecraft:diamond_sword>.maxDamage = 20;

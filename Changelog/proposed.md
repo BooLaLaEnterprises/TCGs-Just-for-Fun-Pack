@@ -75,7 +75,13 @@
 - Dynamic Lights
 
 ### Configuration Changes  
+<<<<<<< Updated upstream
 - Removed unneeded config files for Dynamic Lights and DiscordCraft  
+>>>>>>> Stashed changes
+=======
+- Removed unneeded config files  
+- Enabled the 'new' main menu for Galaxy Space to see if it would disable the new menu  
+- Fixed an entry in Tools.zs in the scripts folder that was throwing an error  
 >>>>>>> Stashed changes
 
 ## The "Lots of Changes" Update    
